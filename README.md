@@ -1,3 +1,18 @@
+## Description pictures
+![Screenshot (131)](https://github.com/abdoweb123/School-management-system/assets/96248035/c2826304-b0cd-4344-8088-9ab0c6958254)
+![Screenshot (120)](https://github.com/abdoweb123/School-management-system/assets/96248035/e1fefab9-ded0-43e2-b17e-31208637c8de)
+![Screenshot (121)](https://github.com/abdoweb123/School-management-system/assets/96248035/ce433f53-c008-4481-a20f-9f7517891241)
+![Screenshot (122)](https://github.com/abdoweb123/School-management-system/assets/96248035/cf2331bf-3301-45fb-8a53-dcf726a5fa07)
+![Screenshot (123)](https://github.com/abdoweb123/School-management-system/assets/96248035/2b0aee0c-b1b8-43ed-9339-4acc9ce67993)
+![Screenshot (124)](https://github.com/abdoweb123/School-management-system/assets/96248035/21c56fa3-2ead-41d6-baf2-018136ee79fd)
+![Screenshot (125)](https://github.com/abdoweb123/School-management-system/assets/96248035/64c9b385-fb67-4c19-96aa-e007af2cdc22)
+![Screenshot (126)](https://github.com/abdoweb123/School-management-system/assets/96248035/d488c916-e184-42e8-8be3-686c2f92d753)
+![Screenshot (127)](https://github.com/abdoweb123/School-management-system/assets/96248035/844635a2-1bf4-4d09-bc71-3bf81d5b6bf6)
+![Screenshot (128)](https://github.com/abdoweb123/School-management-system/assets/96248035/69291824-96ba-4c7b-b6e6-3d6748d41fe1)
+![Screenshot (129)](https://github.com/abdoweb123/School-management-system/assets/96248035/57bffb8a-d980-495f-9cc7-d1af558df1cf)
+![Screenshot (130)](https://github.com/abdoweb123/School-management-system/assets/96248035/c63861df-c530-4984-86d0-4c0f63332717)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
